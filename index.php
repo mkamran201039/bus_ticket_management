@@ -13,7 +13,7 @@
 
 <div class="container" style="margin-top:50px">
 
-   <button class="btn btn-primary" ><a href="create.php" style="color:white;text-decoration:none">Add booking</a></button>
+   <button class="btn btn-primary" ><a href="booking_input.php" style="color:white;text-decoration:none">Add booking</a></button>
    <button class="btn btn-danger" ><a href="create.php" style="color:white;text-decoration:none">Cancel booking</a></button>
    <br><br>
 
