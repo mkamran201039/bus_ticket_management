@@ -1,0 +1,15 @@
+
+create DATABASE bus_ticket_management;
+
+
+CREATE TABLE ticket_booking 
+
+( id INT NOT NULL AUTO_INCREMENT , 
+  name  VARCHAR(50) NOT NULL , 
+  appt_date VARCHAR(30) NOT NULL ,
+  from_location VARCHAR(50) NOT NULL ,
+  to_location VARCHAR(50) NOT NULL ,
+  status VARCHAR(20) NOT NULL , 
+  PRIMARY KEY (`id`)
+
+)
